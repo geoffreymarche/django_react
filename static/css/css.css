@@ -1,0 +1,17 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+h1 {
+ color: blue;
+}
+
+.active {
+  color: green;
+}
+
+.fail {
+  color: red;
+}
+
+.default {
+  color: grey;
+}
