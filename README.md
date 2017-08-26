@@ -1,9 +1,14 @@
 # django_react
 
 ### how to install
-git clone https://github.com/geoffreymarche/django_react \r
-cd django_react \r
-pip install requirements.txt \r
-npm install \r
-./node_modules/.bin/webpack --config webpack.config.js \r
+git clone https://github.com/geoffreymarche/django_react 
+
+cd django_react 
+
+pip install requirements.txt 
+
+npm install 
+
+./node_modules/.bin/webpack --config webpack.config.js 
+
 ./manage.py runserver
