@@ -20,5 +20,9 @@ npm install
 
 #### Launch the application
 
-./manage.py runserver OR ./manage.py runserver 0.0.0.0:8000
+./manage.py runserver 
+
+OR 
+
+./manage.py runserver 0.0.0.0:8000
 
