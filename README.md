@@ -5,9 +5,9 @@ sudo git clone https://github.com/geoffreymarche/django_react
 
 cd django_react 
 
-sudo pip install -r requirements.txt 
+pip install -r requirements.txt 
 
-sudo npm install 
+npm install 
 
 ./node_modules/.bin/webpack --config webpack.config.js 
 
