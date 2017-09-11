@@ -18,7 +18,7 @@ class Login extends React.Component {
   render() {
     return(
       <div>
-        <FormGenerator formId='myForm' Inputs={this.objInputFunction()} Method='post' Urlcall='/login' />
+        <FormGenerator formId='myForm' Inputs={this.objInputFunction()} Method='post' Urlcall='/login/' />
       </div>
     )
   }
